@@ -9,7 +9,7 @@ Input: a[] = [2, 5, 10, 12, 15], target = 5
 Output: 5
 */
 
-#include <iostream>
+#include <bits/stdc++.h>
 
 using namespace std;
 

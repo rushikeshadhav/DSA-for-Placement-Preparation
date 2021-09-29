@@ -8,10 +8,12 @@ NOTE : DO NOT USE BIG INTEGER LIBRARIES ( WHICH ARE AVAILABLE IN JAVA / PYTHON )
 */
 
 /*
+
 Input_1 : 25 12
 Output_1: 300
 Input_2: 010 20
 Output_2 : 200
+
 */
 
 #include<bits/stdc++.h>

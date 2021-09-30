@@ -25,7 +25,7 @@ int threeSumClosest(vector<int>& nums, int target) {
         {
             int left = i+1, right = nums.size()-1;
             
-            while(left < right)
+            while(left <right)
             {
                 if( abs(target - (nums[i] + nums[left] + nums[right])) < diff )
                 {
